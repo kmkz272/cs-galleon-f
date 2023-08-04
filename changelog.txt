@@ -1,0 +1,16 @@
+
+– v2
+October 16, 2018:
+Fixed .res file
+Renamed wind.wav to wind3.wav to resolve conflict with other maps
+
+– v3
+August 26, 2019:
+Transformed the trigger system after it broke D: (still does not work well)
+Renamed des_wind3.wad to des_wind2. I guess this was changed by mistake.
+
+– v4
+September 28, 2019:
+Fixed the map.
+Added survival mode.
+
